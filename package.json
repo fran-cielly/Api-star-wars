@@ -1,0 +1,22 @@
+{
+  "name": "api-star-wars",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "@react-native-async-storage/async-storage": "^1.15.14",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native-web": "0.13.16",
+    "react-scripts": "3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
